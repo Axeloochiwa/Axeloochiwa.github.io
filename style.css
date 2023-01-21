@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(25, 130, 148);
+}
+img {
+    width: 500px;
+    height: 500px;
+
+}
+.image{
+    display: grid;
+    grid-template-columns:40% 40% 40%;
+    width: 100%; 
+    grid-gap: 50px;
+}
+.title {
+    font-size: 100px;
+    color:rgb(243, 243, 243);
+}
+.contenttitle{
+    width: 100%;
+    display:flex;
+    justify-content:center ;
+}
